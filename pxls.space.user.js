@@ -7,6 +7,7 @@
 // @match        https://hot-potato.reddit.com/embed*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
 // @grant        none
+// @updateURL    https://github.com/mare077/r-legion/raw/main/pxls.space.user.js
 // ==/UserScript==
 if (window.top !== window.self) {
     window.addEventListener('load', () => {
